@@ -62,10 +62,6 @@ There is no tests for this project.
 
 Sigita: [Github](https://github.com/SigitaZaromskiene)
 
-## ⚠️ License
-
-Distributed under the MIT License. See LICENSE.txt for more information.
-
 ## 🔗 Other resources
 
 No other resouces.

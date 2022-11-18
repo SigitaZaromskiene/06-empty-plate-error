@@ -1,4 +1,4 @@
-# UFO
+# SIMPLE ERROR PAGE
 
 _website design project_
 
@@ -10,12 +10,11 @@ This project is for educational porpuses only.
 
 Site published at: https://sigitazaromskiene.github.io/06-empty-plate-error/
 
-Design: [UFO](./img/design.png)
 
 ## 🎯 Project features/goals
 
 -   Github pages
--   basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and CSS (style)
+-   basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and [CSS (style)](https://www.w3schools.com/html/html_css.asp)
 -   [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## 🧰 Getting Started

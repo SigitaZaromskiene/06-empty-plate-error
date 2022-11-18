@@ -1,4 +1,72 @@
-- 👋 Hi, I’m a curious individual exploring and pushing her limits to learn and grow.
-- 🌱 I’m currently learning HTML, CSS and have many goals and objectives that I set out to achieve.
-- 💞️ I’m looking to collaborate on basic HTML and CSS projects to improve my skills.
-- 📫 You can reach me: sigitazaromskiene@yahoo.com | https://www.linkedin.com/in/sigita-%C5%BEaromskien%C4%97-7a12271a5/ |
+# UFO
+
+_website design project_
+
+<br>
+
+## 🌟 About
+
+This project is for educational porpuses only. 
+
+Site published at: https://sigitazaromskiene.github.io/06-empty-plate-error/
+
+Design: [UFO](./img/design.png)
+
+## 🎯 Project features/goals
+
+-   Github pages
+-   basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and CSS (style)
+-   [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## 🧰 Getting Started
+
+### 💻 Prerequisites
+
+Node.js - _download and install_
+
+```
+https://nodejs.org
+```
+
+Git - _download and install_
+
+```
+https://git-scm.com
+```
+
+### 🏃 Run locally
+
+Would like to run this project locally? Open terminal and follow these steps:
+
+1. Clone the repo
+    ```sh
+    git clone https://github.com/front-end-by-rimantas/41-grupe-ufo.git
+    ```
+2. Install NPM packages
+    ```sh
+    npm i
+    ```
+    or
+    ```sh
+    npm install
+    ```
+3. Run the server
+    ```sh
+    npm run dev
+    ```
+
+### 🧪 Running tests
+
+There is no tests for this project.
+
+## 🎅 Authors
+
+Sigita: [Github](https://github.com/SigitaZaromskiene)
+
+## ⚠️ License
+
+Distributed under the MIT License. See LICENSE.txt for more information.
+
+## 🔗 Other resources
+
+No other resouces.

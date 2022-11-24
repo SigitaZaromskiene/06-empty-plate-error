@@ -1,0 +1,50 @@
+body {
+  background-image: url(dishes.jpg);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.main {
+  color: white;
+  text-align: center;
+  margin-bottom: 200px;
+}
+
+.main-title {
+  font-size: 100px;
+  margin: 0px;
+}
+
+.main-text {
+  font-size: 70px;
+  margin: 0px;
+  font-weight: normal;
+  margin-bottom: 60px;
+}
+
+.btn {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: white;
+  border: 3px solid white;
+  padding: 10px 30px;
+  text-decoration: none;
+}
+
+footer {
+  display: flex;
+  gap: 20px;
+}
+
+footer > ion-icon {
+  border: 2px solid white;
+  border-radius: 50%;
+  padding: 10px;
+  color: white;
+  cursor: pointer;
+}
